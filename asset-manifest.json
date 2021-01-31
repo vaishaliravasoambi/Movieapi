@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Movieapi/static/css/main.09117688.chunk.css",
+    "main.js": "/Movieapi/static/js/main.f1289834.chunk.js",
+    "main.js.map": "/Movieapi/static/js/main.f1289834.chunk.js.map",
+    "runtime-main.js": "/Movieapi/static/js/runtime-main.e6c539ff.js",
+    "runtime-main.js.map": "/Movieapi/static/js/runtime-main.e6c539ff.js.map",
+    "static/js/2.97b68765.chunk.js": "/Movieapi/static/js/2.97b68765.chunk.js",
+    "static/js/2.97b68765.chunk.js.map": "/Movieapi/static/js/2.97b68765.chunk.js.map",
+    "static/js/3.313e70a4.chunk.js": "/Movieapi/static/js/3.313e70a4.chunk.js",
+    "static/js/3.313e70a4.chunk.js.map": "/Movieapi/static/js/3.313e70a4.chunk.js.map",
+    "index.html": "/Movieapi/index.html",
+    "static/css/main.09117688.chunk.css.map": "/Movieapi/static/css/main.09117688.chunk.css.map",
+    "static/js/2.97b68765.chunk.js.LICENSE.txt": "/Movieapi/static/js/2.97b68765.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6c539ff.js",
+    "static/js/2.97b68765.chunk.js",
+    "static/css/main.09117688.chunk.css",
+    "static/js/main.f1289834.chunk.js"
+  ]
+}
